@@ -5,9 +5,9 @@
 | Code | Language | Contributor |
 |-|-------|-------|
 | en | English | Thanks to [TEAM OGGY ]
-| si | Sinhala  | Thanks to [Damantha](https://t.me/MrItzme) & [Supun](https://t.me/Supunma)
+| si | Sinhala  | Thanks to [oggy )
 | hi | Hindi  | Thanks to [TEAM OGGY ]
-| ar | Arabic | Thanks to [Mustafa](https://t.me/tr_4z)
+| ar | Arabic | Thanks to [oggy]
 | te | Telugu |  thanks to [TEAM OGGY ]
 
 
