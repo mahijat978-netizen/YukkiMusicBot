@@ -1,5 +1,4 @@
-#
-# Copyright (C) 
+
 
 import random
 from os.path import realpath
