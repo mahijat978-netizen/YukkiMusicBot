@@ -80,8 +80,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TeamYM")
-                await self.two.join_chat("TheYukki")
+                await self.two.join_chat("TeamOG")
+                await self.two.join_chat("OGGYMUSIC")
                 await self.two.join_chat("OGGYSupport")
             except:
                 pass
