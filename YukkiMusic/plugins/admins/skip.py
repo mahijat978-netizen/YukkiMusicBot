@@ -62,7 +62,7 @@ async def skip(cli, message: Message, _, chat_id):
                                             message.from_user.first_name
                                         )
                                     )
-                                    await Yukki.stop_stream(chat_id)
+                                    await Oggy.stop_stream(chat_id)
                                 except:
                                     return
                                 break
@@ -89,7 +89,7 @@ async def skip(cli, message: Message, _, chat_id):
                     _["admin_10"].format(message.from_user.first_name)
                 )
                 try:
-                    return await Yukki.stop_stream(chat_id)
+                    return await Oggy.stop_stream(chat_id)
                 except:
                     return
         except:
@@ -97,7 +97,7 @@ async def skip(cli, message: Message, _, chat_id):
                 await message.reply_text(
                     _["admin_10"].format(message.from_user.first_name)
                 )
-                return await Yukki.stop_stream(chat_id)
+                return await Oggy.stop_stream(chat_id)
             except:
                 return
     queued = check[0]["file"]
