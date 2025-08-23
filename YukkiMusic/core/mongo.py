@@ -12,7 +12,7 @@ TEMP_MONGODB = mongodb+srv://Faizan324926:Faizan324926@cluster0.zyo5uuv.mongodb.
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
-        "No MONGO DB URL found.. Your Bot will work on Yukki's Database"
+        "No MONGO DB URL found.. Your Bot will work on oggy's Database"
     )
     temp_client = Client(
         "Oggy",
